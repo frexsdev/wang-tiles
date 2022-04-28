@@ -4,4 +4,4 @@ nimblecache/
 htmldocs/
 
 main
-output.ppm
+*.ppm

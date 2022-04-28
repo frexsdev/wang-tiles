@@ -5,6 +5,6 @@
 Install [Nim](https://nim-lang.org/) compiler first.
 
 ```console
-$ nim c -r main.nim
-$ feh output.ppm
+$ nim c -r -d:release main.nim
+$ feh *.ppm
 ```
